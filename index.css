@@ -1,0 +1,21 @@
+body {
+  background-color: #333232;
+}
+
+.container {
+  width: 500px;
+  border: 2px solid black;
+  justify-content: center;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  background-color: #141414;
+}
+.container form {
+  padding: 50px 100px 50px 100px;
+}
+.btn {
+  width: 100%;
+}
+.form-group img {
+  margin-left: -58px;
+}
